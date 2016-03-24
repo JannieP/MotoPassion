@@ -1,0 +1,51 @@
+/* CSS Document */
+
+.th{
+ font-family: Arial, Helvetica, sans-serif;
+ background-color:#000000;
+ color:#FFFFFF;
+ font-weight:bold;
+}
+.tn{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#CC0000;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size: 12px;
+}
+.tde{
+ font-family: Arial, Helvetica, sans-serif;
+ background-color:#FFFFCC;
+ color:#000000;
+ font-weight:bold;
+ font-size: 12px;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+	background-color: #CC0000;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.button {
+	font-family: Arial, Helvetica, sans-serif;
+
+  background-color:;
+	font-size: 12px;
+}
+.buttonover {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #CC0000;
+}
+.style2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px
+ }
+ .log {
+	font-size: 10px;
+	color: #FFFFFF;
+ }

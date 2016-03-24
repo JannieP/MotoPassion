@@ -1,0 +1,54 @@
+GROUP:Super Bikes - SAMPLE ONLY
+NAME:XX1100 - R###,###.00
+FILE:b14.jpg
+DETAIL:Red
+
+GROUP:Super Bikes - SAMPLE ONLY
+NAME:GSX 1100 - R###,###.00
+FILE:b1.jpg
+DETAIL:Silver
+
+GROUP:Super Bikes - SAMPLE ONLY
+NAME:Kawasaki - R##,###.00
+FILE:b2.jpg
+DETAIL:Silver and Green
+
+GROUP:Super Bikes - SAMPLE ONLY
+NAME:Suzuki S1000 - R##,###.00 
+FILE:b3.jpg
+DETAIL:Silver and Green
+
+GROUP:Cruisers - SAMPLE ONLY
+NAME:Harley Davidson - R###,###.00 
+FILE:b5.jpg
+DETAIL:Silver and Black
+
+GROUP:Cruisers - SAMPLE ONLY
+NAME:Harley Davidson - R###,###.00 
+FILE:b11.jpg
+DETAIL:Maroon and Black
+
+GROUP:Cruisers - SAMPLE ONLY
+NAME:Harley Davidson - R###,###.00 
+FILE:b9.jpg
+DETAIL:Maroon and Black
+
+GROUP:Scooters - SAMPLE ONLY
+NAME:Jonway - R###,###.00 
+FILE:b16.jpg
+DETAIL:Yellow
+
+GROUP:Quads - SAMPLE ONLY
+NAME:Yamaha - R###,###.00 
+FILE:b3.jpg
+DETAIL:Red
+
+GROUP:Offroads - SAMPLE ONLY
+NAME:Yamaha - R###,###.00 
+FILE:b10.jpg
+DETAIL:Blue
+
+GROUP:Offroads - SAMPLE ONLY
+NAME:Yamaha - R###,###.00 
+FILE:b6.jpg
+DETAIL:Yellow
